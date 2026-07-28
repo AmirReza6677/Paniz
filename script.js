@@ -127,7 +127,7 @@ class Heart {
 
 const hearts = [];
 
-for (let i = 0; i < 15; i++) {
+for (let i = 0; i < 100; i++) {
 
     hearts.push(new Heart());
 
